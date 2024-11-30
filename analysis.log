@@ -1,0 +1,17 @@
+
+2024-11-29 22:09:05,764 - INFO - Intentando cargar archivo: SistemaCompleto10Nodos.csv
+2024-11-29 22:09:05,779 - WARNING - Valor no numérico encontrado: )
+2024-11-29 22:09:05,780 - WARNING - Línea 1025 ignorada: 0 valores (se esperaban 10)
+2024-11-29 22:09:05,782 - INFO - TPM cargada exitosamente: forma (1024, 10)
+2024-11-29 22:09:05,782 - INFO - Sistema inicializado con 10 nodos
+2024-11-29 22:09:05,796 - INFO - Sistema marginalizado para nodos: ABCDEFG
+2024-11-29 22:09:05,801 - INFO - Analizador inicializado: presente=ABC, futuro=AB
+2024-11-29 22:09:05,817 - WARNING - No hay partición para visualizar
+2024-11-29 22:11:08,268 - INFO - Intentando cargar archivo: SistemaCompleto10Nodos.csv
+2024-11-29 22:11:08,283 - WARNING - Valor no numérico encontrado: )
+2024-11-29 22:11:08,283 - WARNING - Línea 1025 ignorada: 0 valores (se esperaban 10)
+2024-11-29 22:11:08,285 - INFO - TPM cargada exitosamente: forma (1024, 10)
+2024-11-29 22:11:08,285 - INFO - Sistema inicializado con 10 nodos
+2024-11-29 22:11:08,299 - INFO - Sistema marginalizado para nodos: ABCDEFG
+2024-11-29 22:11:08,303 - INFO - Analizador inicializado: presente=ABC, futuro=AB
+2024-11-29 22:11:08,321 - WARNING - No hay partición para visualizar
